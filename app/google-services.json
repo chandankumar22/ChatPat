@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362575931738",
+    "project_id": "chatpat-6dba4",
+    "storage_bucket": "chatpat-6dba4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362575931738:android:11b3865272e25d6b1deb63",
+        "android_client_info": {
+          "package_name": "com.ck.dev.chatpat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxID1IVrVZcOgbdLUExKyA0QB3tIfXz5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
