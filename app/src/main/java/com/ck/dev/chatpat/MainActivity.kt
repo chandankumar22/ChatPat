@@ -14,7 +14,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ChatPatTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { inneqwerrPadding ->
+                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     LoginScreen()
                 }
             }
